@@ -1,0 +1,30 @@
+C:\Users\SUNA\Desktop\Yeni klasör\Solution2\business\obj\Debug\netcoreapp3.1\Business.csproj.AssemblyReference.cache
+C:\Users\SUNA\Desktop\Yeni klasör\Solution2\business\obj\Debug\netcoreapp3.1\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUNA\Desktop\Yeni klasör\Solution2\business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\SUNA\Desktop\Yeni klasör\Solution2\business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\SUNA\Desktop\Yeni klasör\Solution2\business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\SUNA\Desktop\Yeni klasör\Solution2\business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\SUNA\Desktop\Yeni klasör\Solution2\business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\SUNA\Desktop\Yeni klasör\Solution2\business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\SUNA\Desktop\Yeni klasör\Solution2\business\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\SUNA\Desktop\Yeni klasör\Solution2\business\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\SUNA\Desktop\Yeni klasör\Solution2\business\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\SUNA\Desktop\Yeni klasör\Solution2\business\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\SUNA\Desktop\Yeni klasör\Solution2\business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Users\SUNA\Desktop\Yeni klasör\Solution2\business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\SUNA\Desktop\Yeni klasör\Solution2\business\obj\Debug\netcoreapp3.1\Business.pdb
+C:\Users\SUNA\Desktop\E-TRADE\Solution2\business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\SUNA\Desktop\E-TRADE\Solution2\business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\SUNA\Desktop\E-TRADE\Solution2\business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\SUNA\Desktop\E-TRADE\Solution2\business\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\SUNA\Desktop\E-TRADE\Solution2\business\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\SUNA\Desktop\E-TRADE\Solution2\business\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\SUNA\Desktop\E-TRADE\Solution2\business\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\SUNA\Desktop\E-TRADE\Solution2\business\obj\Debug\netcoreapp3.1\Business.csproj.AssemblyReference.cache
+C:\Users\SUNA\Desktop\E-TRADE\Solution2\business\obj\Debug\netcoreapp3.1\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUNA\Desktop\E-TRADE\Solution2\business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\SUNA\Desktop\E-TRADE\Solution2\business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\SUNA\Desktop\E-TRADE\Solution2\business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\SUNA\Desktop\E-TRADE\Solution2\business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Users\SUNA\Desktop\E-TRADE\Solution2\business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\SUNA\Desktop\E-TRADE\Solution2\business\obj\Debug\netcoreapp3.1\Business.pdb
